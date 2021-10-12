@@ -84,6 +84,9 @@ dnf install emacs
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 cp spacemacs/dot_spacemacs ~/.spacemacs
 
+# Bash
+cp bash/dot_bashrc ~/.bashrc
+
 # for window managers
 dunst
 
